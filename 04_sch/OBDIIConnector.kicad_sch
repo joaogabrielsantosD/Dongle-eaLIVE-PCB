@@ -1,0 +1,873 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c21825af-19da-4361-9433-34f977970dbc")
+	(paper "A4")
+	(lib_symbols
+		(symbol "DongleALIVE:C-OBD-II-16M"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -7.62 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "C-OBD-II-16M"
+				(at -7.62 -13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "DongleALIVE:COMTECH_C-OBD-II-16M"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Comtech Electronic Co., LTD"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "18.3mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/C-OBD-II-16M/Comtech+Electronic+Co.%252C+LTD/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/C-OBD-II-16M/Comtech+Electronic+Co.%252C+LTD/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "C-OBD-II-16M"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "\nOBD II 16pin 90 Degree Angle Male Plug Connector\n"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "Not in stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Comtech Electronic Co."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "C-OBD-II-16M_0_0"
+				(rectangle
+					(start -7.62 -12.7)
+					(end 7.62 10.16)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -12.7 7.62 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 5.08 180)
+					(length 5.08)
+					(name "10"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 2.54 180)
+					(length 5.08)
+					(name "11"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name "12"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -2.54 180)
+					(length 5.08)
+					(name "13"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "14"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -7.62 180)
+					(length 5.08)
+					(name "15"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -10.16 180)
+					(length 5.08)
+					(name "16"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 5.08 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 2.54 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 0 0)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -2.54 0)
+					(length 5.08)
+					(name "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -5.08 0)
+					(length 5.08)
+					(name "6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -7.62 0)
+					(length 5.08)
+					(name "7"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -10.16 0)
+					(length 5.08)
+					(name "8"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 7.62 180)
+					(length 5.08)
+					(name "9"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(no_connect
+		(at 132.08 102.87)
+		(uuid "0d0c8f91-e0a7-4efb-8108-b055ccf5c26a")
+	)
+	(no_connect
+		(at 132.08 107.95)
+		(uuid "1915fcb9-4331-4496-85c7-5d6db803775b")
+	)
+	(no_connect
+		(at 132.08 95.25)
+		(uuid "2ce1c019-7e12-4abc-8755-d0271e145410")
+	)
+	(no_connect
+		(at 157.48 92.71)
+		(uuid "5807234a-a34f-43e6-902d-509a079ad879")
+	)
+	(no_connect
+		(at 157.48 95.25)
+		(uuid "97b49018-256b-40f5-9dcc-6e26e1b5cd20")
+	)
+	(no_connect
+		(at 157.48 100.33)
+		(uuid "9a138275-b385-4f49-81b4-7eb7e8710bf6")
+	)
+	(no_connect
+		(at 157.48 107.95)
+		(uuid "a1a4f9d0-f119-45a9-b682-a8acf2652832")
+	)
+	(no_connect
+		(at 132.08 97.79)
+		(uuid "b9219765-9342-4317-8264-b2559f3a5cd8")
+	)
+	(no_connect
+		(at 132.08 92.71)
+		(uuid "c160a0de-1c49-4e12-9de9-33e5c2e09673")
+	)
+	(no_connect
+		(at 157.48 102.87)
+		(uuid "c3c93e22-78a3-4b02-b4f8-4b878602a0bb")
+	)
+	(no_connect
+		(at 132.08 110.49)
+		(uuid "fe467662-6f64-4108-ae51-be47f2d7a7f1")
+	)
+	(no_connect
+		(at 157.48 97.79)
+		(uuid "ff4736d8-18d6-4d2f-bb96-7e9ecfb0c410")
+	)
+	(wire
+		(pts
+			(xy 128.27 100.33) (xy 132.08 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "034613b1-5553-405c-8617-169d75c21d2f")
+	)
+	(wire
+		(pts
+			(xy 161.29 105.41) (xy 157.48 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6465cafe-f4be-4a1a-a5a0-98b8ba6316bc")
+	)
+	(wire
+		(pts
+			(xy 161.29 110.49) (xy 157.48 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c74ab19f-9803-40b9-a74c-951e566df8a7")
+	)
+	(wire
+		(pts
+			(xy 128.27 105.41) (xy 132.08 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d74d9f74-c99b-41ae-ba7a-0409ce2de30e")
+	)
+	(rectangle
+		(start 107.95 76.708)
+		(end 181.61 124.968)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a3cc3c41-7341-41a9-b838-f9d84a53cf24)
+	)
+	(text "Connected in OBD-II port in the car"
+		(exclude_from_sim no)
+		(at 144.272 74.676 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c4f1a74e-d193-43ef-96ef-ed30b0ca8b83")
+	)
+	(hierarchical_label "CAN_LOW"
+		(shape bidirectional)
+		(at 128.27 105.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right)
+		)
+		(uuid "0a6946f0-0be8-4259-a883-755760dbef38")
+	)
+	(hierarchical_label "CAN_HIGH"
+		(shape bidirectional)
+		(at 161.29 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left)
+		)
+		(uuid "128b0c68-d6a9-45ff-8f40-5afb14557791")
+	)
+	(hierarchical_label "Car_Battery_12v"
+		(shape output)
+		(at 161.29 110.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left)
+		)
+		(uuid "3f0a86a7-a83f-49de-86f4-b477a32183fb")
+	)
+	(hierarchical_label "Negative_Car_Battery"
+		(shape output)
+		(at 128.27 100.33 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right)
+		)
+		(uuid "769af7ea-3930-4c43-9f22-785208e18163")
+	)
+	(symbol
+		(lib_id "DongleALIVE:C-OBD-II-16M")
+		(at 144.78 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "db33708a-1d70-4c79-9414-465e7855db3e")
+		(property "Reference" "J3"
+			(at 144.78 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "C-OBD-II-16M"
+			(at 144.78 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "DongleALIVE:COMTECH_C-OBD-II-16M"
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Comtech Electronic Co., LTD"
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "18.3mm"
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/C-OBD-II-16M/Comtech+Electronic+Co.%252C+LTD/view-part/?ref=eda"
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "A"
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/C-OBD-II-16M/Comtech+Electronic+Co.%252C+LTD/view-part/?ref=snap"
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "C-OBD-II-16M"
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nOBD II 16pin 90 Degree Angle Male Plug Connector\n"
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "Not in stock"
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Comtech Electronic Co."
+			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "9642e3e1-cecb-4f23-98b3-0d3009805007")
+		)
+		(pin "9"
+			(uuid "7b599f9b-dd35-4c6c-9e9d-c427e144a319")
+		)
+		(pin "14"
+			(uuid "337aabe0-6ec9-4c0f-96f7-cf379513f857")
+		)
+		(pin "13"
+			(uuid "ffa14abc-4198-4144-8b9e-772214988155")
+		)
+		(pin "1"
+			(uuid "f2884106-1666-4ee8-a901-6c76e92850c5")
+		)
+		(pin "10"
+			(uuid "adc0c3c0-40bf-4a88-a94c-463a9b4eb0f0")
+		)
+		(pin "8"
+			(uuid "748a8690-b90e-4787-b342-217a3d926e52")
+		)
+		(pin "2"
+			(uuid "45f35b43-bf11-4c7e-8831-0d790ecfaf01")
+		)
+		(pin "4"
+			(uuid "f3e58a5f-2ae5-4f2b-b8e1-522d7e7733bf")
+		)
+		(pin "5"
+			(uuid "5e135241-180b-4f35-b14e-f9d69d0d6411")
+		)
+		(pin "11"
+			(uuid "f8fc8ebf-65c1-462e-8403-6f3d9e07c798")
+		)
+		(pin "6"
+			(uuid "1ecbc726-a2f2-465c-9253-84980f352757")
+		)
+		(pin "15"
+			(uuid "3ca6dec5-7ae2-4acb-9dd5-9600c8c3b220")
+		)
+		(pin "16"
+			(uuid "b7b450a0-fd5d-435d-b973-cd3abf64348c")
+		)
+		(pin "12"
+			(uuid "ca0ac4c1-a689-444a-bdc4-17b23296291f")
+		)
+		(pin "3"
+			(uuid "f2dcdf5b-a902-4847-bbc2-3a201ff98f64")
+		)
+		(instances
+			(project ""
+				(path "/4ec2d2e6-55cd-4bab-92e3-628cee37171a/1114c16a-20a4-4a1a-923b-3a9a4ab721f8"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

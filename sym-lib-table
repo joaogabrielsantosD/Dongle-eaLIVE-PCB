@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DongleALIVE")(type "KiCad")(uri "${KIPRJMOD}/03_Libraries/01_Symbols/DongleALIVE.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DongleALIVE")(type "KiCad")(uri "${KIPRJMOD}/03_Libraries/02_Footprints/DongleALIVE.pretty")(options "")(descr ""))
+)
