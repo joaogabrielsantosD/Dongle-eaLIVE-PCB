@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\gabri\Documents\02_LIVE\02_ALIVE\Hardware\main\v2.0\DongleALIVEv2.0\DongleALIVEv2.0.kicad_sch</source>
-    <date>2024-09-21T16:23:13-0300</date>
+    <date>2024-09-22T00:52:30-0300</date>
     <tool>Eeschema 8.0.4</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -114,7 +114,7 @@
         <field name="MANUFACTURER"/>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC">C9900112727</field>
+        <field name="LCSC"/>
         <field name="Footprint">DongleALIVE:COMTECH_C-OBD-II-16M</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -134,7 +134,7 @@
       <property name="MANUFACTURER" value=""/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value="C9900112727"/>
+      <property name="LCSC" value=""/>
       <property name="Sheetname" value="Raiz"/>
       <property name="Sheetfile" value="DongleALIVEv2.0.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -193,7 +193,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C105484</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -201,7 +201,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C105484"/>
       <property name="Sheetname" value="Microcontroller"/>
       <property name="Sheetfile" value="04_sch/Microcontroller.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -216,7 +216,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C15850</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -224,7 +224,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value="Microcontroller"/>
       <property name="Sheetfile" value="04_sch/Microcontroller.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -239,7 +239,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C49678</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -247,7 +247,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value="Microcontroller"/>
       <property name="Sheetfile" value="04_sch/Microcontroller.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -262,7 +262,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C15850</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -270,7 +270,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value="Microcontroller"/>
       <property name="Sheetfile" value="04_sch/Microcontroller.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -285,7 +285,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C49678</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -293,7 +293,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value="Microcontroller"/>
       <property name="Sheetfile" value="04_sch/Microcontroller.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -308,7 +308,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C2296</field>
         <field name="Footprint">LED_SMD:LED_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description">Light emitting diode</field>
@@ -316,7 +316,7 @@
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C2296"/>
       <property name="Sheetname" value="Microcontroller"/>
       <property name="Sheetfile" value="04_sch/Microcontroller.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
@@ -331,7 +331,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C34499 </field>
         <field name="Footprint">LED_SMD:LED_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description">Light emitting diode</field>
@@ -339,7 +339,7 @@
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C34499 "/>
       <property name="Sheetname" value="Microcontroller"/>
       <property name="Sheetfile" value="04_sch/Microcontroller.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
@@ -354,7 +354,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C191101</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -362,7 +362,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C191101"/>
       <property name="Sheetname" value="Microcontroller"/>
       <property name="Sheetfile" value="04_sch/Microcontroller.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -377,7 +377,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C191101</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -385,7 +385,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C191101"/>
       <property name="Sheetname" value="Microcontroller"/>
       <property name="Sheetfile" value="04_sch/Microcontroller.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -400,7 +400,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C17513</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -408,7 +408,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C17513"/>
       <property name="Sheetname" value="Microcontroller"/>
       <property name="Sheetfile" value="04_sch/Microcontroller.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -423,7 +423,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C17513</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -431,7 +431,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C17513"/>
       <property name="Sheetname" value="Microcontroller"/>
       <property name="Sheetfile" value="04_sch/Microcontroller.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -446,7 +446,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C966144</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -454,7 +454,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C966144"/>
       <property name="Sheetname" value="Microcontroller"/>
       <property name="Sheetfile" value="04_sch/Microcontroller.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -469,7 +469,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C966144</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -477,7 +477,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C966144"/>
       <property name="Sheetname" value="Microcontroller"/>
       <property name="Sheetfile" value="04_sch/Microcontroller.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -537,7 +537,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C82899</field>
         <field name="Footprint">RF_Module:ESP32-WROOM-32</field>
         <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</field>
         <field name="Description">RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD</field>
@@ -545,7 +545,7 @@
       <libsource lib="RF_Module" part="ESP32-WROOM-32" description="RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C82899"/>
       <property name="Sheetname" value="Microcontroller"/>
       <property name="Sheetfile" value="04_sch/Microcontroller.kicad_sch"/>
       <property name="ki_keywords" value="RF Radio BT ESP ESP32 Espressif onboard PCB antenna"/>
@@ -560,7 +560,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C49678</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -568,7 +568,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -583,7 +583,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C15850</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -591,7 +591,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -606,7 +606,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C49678</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -614,7 +614,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -629,7 +629,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C15850</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -637,7 +637,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -652,7 +652,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C49678</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -660,7 +660,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -675,7 +675,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C1790</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -683,7 +683,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C1790"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -698,7 +698,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C15850</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -706,7 +706,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -721,7 +721,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C15850</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -729,7 +729,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -744,7 +744,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C49678</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -752,7 +752,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -767,7 +767,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC">C3039962</field>
+        <field name="LCSC">C8678</field>
         <field name="Footprint">DongleALIVE:SS34</field>
         <field name="Datasheet"/>
         <field name="Description">Schottky diode</field>
@@ -775,7 +775,7 @@
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value="C3039962"/>
+      <property name="LCSC" value="C8678"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="diode Schottky"/>
@@ -813,7 +813,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C19171391</field>
         <field name="Footprint">LED_SMD:LED_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description">Light emitting diode</field>
@@ -821,7 +821,7 @@
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C19171391"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>
@@ -859,7 +859,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C108295</field>
         <field name="Footprint">Inductor_SMD:L_Cenker_CKCS6028</field>
         <field name="Datasheet"/>
         <field name="Description">Inductor, small symbol</field>
@@ -867,7 +867,7 @@
       <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C108295"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
@@ -906,7 +906,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C149504</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -914,7 +914,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C149504"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -929,7 +929,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C149504</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -937,7 +937,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C149504"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -952,7 +952,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C149504</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -960,7 +960,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C149504"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -975,7 +975,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C17513</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -983,7 +983,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C17513"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -998,7 +998,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C149504</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -1006,7 +1006,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C149504"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -1021,7 +1021,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C149504</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -1029,7 +1029,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C149504"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -1044,7 +1044,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C17828</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -1052,7 +1052,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C17828"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -1067,7 +1067,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C966144</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -1075,7 +1075,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C966144"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -1090,7 +1090,7 @@
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C128551</field>
         <field name="Footprint">DongleALIVE:Potenciometer</field>
         <field name="Datasheet"/>
         <field name="Description">Potentiometer</field>
@@ -1098,7 +1098,7 @@
       <libsource lib="Device" part="R_Potentiometer_Small" description="Potentiometer"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C128551"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="resistor variable"/>
@@ -1182,7 +1182,7 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C917183</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
         <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
         <field name="Description">1A Low Dropout regulator, positive, adjustable output, SOT-223</field>
@@ -1190,7 +1190,7 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
       <libsource lib="Regulator_Linear" part="AMS1117" description="1A Low Dropout regulator, positive, adjustable output, SOT-223"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C917183"/>
       <property name="Sheetname" value="VoltageRegulatorESD"/>
       <property name="Sheetfile" value="04_sch/VoltageRegulatorESD.kicad_sch"/>
       <property name="ki_keywords" value="linear regulator ldo adjustable positive"/>
@@ -1199,13 +1199,13 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
       <tstamps>9c19a855-4107-43dd-81a6-192710383c5d</tstamps>
     </comp>
     <comp ref="C15">
-      <value>0.1uF</value>
+      <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <description>Unpolarized capacitor, small symbol</description>
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C49678</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -1213,7 +1213,7 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value="CAN_controller"/>
       <property name="Sheetfile" value="04_sch/CAN_controller.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -1223,20 +1223,20 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
     </comp>
     <comp ref="C16">
       <value>10uF</value>
-      <footprint>Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_Pad1.25x1.05mm_HandSolder</footprint>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R_Pad1.30x1.05mm_HandSolder</footprint>
       <description>Polarized capacitor, small symbol</description>
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
-        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_Pad1.25x1.05mm_HandSolder</field>
+        <field name="LCSC">C201218</field>
+        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R_Pad1.30x1.05mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Polarized capacitor, small symbol</field>
       </fields>
       <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C201218"/>
       <property name="Sheetname" value="CAN_controller"/>
       <property name="Sheetfile" value="04_sch/CAN_controller.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -1245,13 +1245,13 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
       <tstamps>5b1417dd-bfb7-43e4-b489-2277c54b8d66</tstamps>
     </comp>
     <comp ref="C17">
-      <value>0.1uF</value>
+      <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <description>Unpolarized capacitor, small symbol</description>
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C49678</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -1259,7 +1259,7 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value="CAN_controller"/>
       <property name="Sheetfile" value="04_sch/CAN_controller.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -1274,7 +1274,7 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C157623</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -1282,7 +1282,7 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C157623"/>
       <property name="Sheetname" value="CAN_controller"/>
       <property name="Sheetfile" value="04_sch/CAN_controller.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -1297,7 +1297,7 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C157623</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -1305,7 +1305,7 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C157623"/>
       <property name="Sheetname" value="CAN_controller"/>
       <property name="Sheetfile" value="04_sch/CAN_controller.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -1362,7 +1362,7 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C191101</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -1370,7 +1370,7 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C191101"/>
       <property name="Sheetname" value="CAN_controller"/>
       <property name="Sheetfile" value="04_sch/CAN_controller.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -1385,7 +1385,7 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C966144</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -1393,7 +1393,7 @@ Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C966144"/>
       <property name="Sheetname" value="CAN_controller"/>
       <property name="Sheetfile" value="04_sch/CAN_controller.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -1455,7 +1455,7 @@ Microchip CAN Controller 1Mbit/s CAN 2.0B 18-Pin SOIC W | Microchip Technology I
         <field name="Check_prices">https://www.snapeda.com/parts/MCP2515-I/SO/Microchip/view-part/?ref=eda</field>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C5250735</field>
         <field name="Footprint">DongleALIVE:MCP2515</field>
         <field name="Datasheet"/>
         <field name="Description"/>
@@ -1471,7 +1471,7 @@ Microchip CAN Controller 1Mbit/s CAN 2.0B 18-Pin SOIC W | Microchip Technology I
       <property name="Check_prices" value="https://www.snapeda.com/parts/MCP2515-I/SO/Microchip/view-part/?ref=eda"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C5250735"/>
       <property name="Sheetname" value="CAN_controller"/>
       <property name="Sheetfile" value="04_sch/CAN_controller.kicad_sch"/>
       <sheetpath names="/CAN_controller/" tstamps="/e77cc1ab-cfd0-444c-adb2-0f4ecf7e33fa/"/>
@@ -1484,7 +1484,7 @@ Microchip CAN Controller 1Mbit/s CAN 2.0B 18-Pin SOIC W | Microchip Technology I
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C252310</field>
         <field name="Footprint">Crystal:Crystal_SMD_HC49-SD</field>
         <field name="Datasheet"/>
         <field name="Description">Two pin crystal</field>
@@ -1492,7 +1492,7 @@ Microchip CAN Controller 1Mbit/s CAN 2.0B 18-Pin SOIC W | Microchip Technology I
       <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C252310"/>
       <property name="Sheetname" value="CAN_controller"/>
       <property name="Sheetfile" value="04_sch/CAN_controller.kicad_sch"/>
       <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
@@ -1507,7 +1507,7 @@ Microchip CAN Controller 1Mbit/s CAN 2.0B 18-Pin SOIC W | Microchip Technology I
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C15850</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -1515,7 +1515,7 @@ Microchip CAN Controller 1Mbit/s CAN 2.0B 18-Pin SOIC W | Microchip Technology I
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value="MicroUSB_Port"/>
       <property name="Sheetfile" value="04_sch/USB_Port.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -1530,7 +1530,7 @@ Microchip CAN Controller 1Mbit/s CAN 2.0B 18-Pin SOIC W | Microchip Technology I
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C15850</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -1538,7 +1538,7 @@ Microchip CAN Controller 1Mbit/s CAN 2.0B 18-Pin SOIC W | Microchip Technology I
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value="MicroUSB_Port"/>
       <property name="Sheetfile" value="04_sch/USB_Port.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -1553,7 +1553,7 @@ Microchip CAN Controller 1Mbit/s CAN 2.0B 18-Pin SOIC W | Microchip Technology I
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C15850</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -1561,7 +1561,7 @@ Microchip CAN Controller 1Mbit/s CAN 2.0B 18-Pin SOIC W | Microchip Technology I
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C15850"/>
       <property name="Sheetname" value="MicroUSB_Port"/>
       <property name="Sheetfile" value="04_sch/USB_Port.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -1576,7 +1576,7 @@ Microchip CAN Controller 1Mbit/s CAN 2.0B 18-Pin SOIC W | Microchip Technology I
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C49678</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor, small symbol</field>
@@ -1584,7 +1584,7 @@ Microchip CAN Controller 1Mbit/s CAN 2.0B 18-Pin SOIC W | Microchip Technology I
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value="MicroUSB_Port"/>
       <property name="Sheetfile" value="04_sch/USB_Port.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
@@ -1599,7 +1599,7 @@ Microchip CAN Controller 1Mbit/s CAN 2.0B 18-Pin SOIC W | Microchip Technology I
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C124187</field>
         <field name="Footprint">DongleALIVE:BAT760-7</field>
         <field name="Datasheet"/>
         <field name="Description">Schottky diode, small symbol</field>
@@ -1607,7 +1607,7 @@ Microchip CAN Controller 1Mbit/s CAN 2.0B 18-Pin SOIC W | Microchip Technology I
       <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C124187"/>
       <property name="Sheetname" value="MicroUSB_Port"/>
       <property name="Sheetfile" value="04_sch/USB_Port.kicad_sch"/>
       <property name="ki_keywords" value="diode Schottky"/>
@@ -1741,7 +1741,7 @@ Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C17513</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -1749,7 +1749,7 @@ Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C17513"/>
       <property name="Sheetname" value="MicroUSB_Port"/>
       <property name="Sheetfile" value="04_sch/USB_Port.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -1764,7 +1764,7 @@ Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C191101</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -1772,7 +1772,7 @@ Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C191101"/>
       <property name="Sheetname" value="MicroUSB_Port"/>
       <property name="Sheetfile" value="04_sch/USB_Port.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -1787,7 +1787,7 @@ Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C191101</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor, small symbol</field>
@@ -1795,7 +1795,7 @@ Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C191101"/>
       <property name="Sheetname" value="MicroUSB_Port"/>
       <property name="Sheetfile" value="04_sch/USB_Port.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
@@ -1811,7 +1811,7 @@ Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3
       <fields>
         <field name="Sim.Device"/>
         <field name="Sim.Pins"/>
-        <field name="LCSC"/>
+        <field name="LCSC">C964632</field>
         <field name="Footprint">Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm</field>
         <field name="Datasheet">https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf</field>
         <field name="Description">USB to UART master bridge, QFN-28</field>
@@ -1819,7 +1819,7 @@ Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3
       <libsource lib="Interface_USB" part="CP2102N-Axx-xQFN28" description="USB to UART master bridge, QFN-28"/>
       <property name="Sim.Device" value=""/>
       <property name="Sim.Pins" value=""/>
-      <property name="LCSC" value=""/>
+      <property name="LCSC" value="C964632"/>
       <property name="Sheetname" value="MicroUSB_Port"/>
       <property name="Sheetfile" value="04_sch/USB_Port.kicad_sch"/>
       <property name="ki_keywords" value="USB UART bridge"/>
