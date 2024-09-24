@@ -600,7 +600,7 @@
       "plot": "02_Gerber&BOM/01_Gerber/",
       "pos_files": "02_Gerber&BOM/02_BOM/01_GenerateFiles/00_Positions/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "01_Specs/03_3Dmodel/DongleALIVEv2.0.step",
       "svg": "",
       "vrml": ""
     },
