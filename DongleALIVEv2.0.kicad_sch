@@ -1418,6 +1418,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 90.17) (xy 107.95 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12fd58c4-d4c0-48fd-b81b-d11dabc41c5b")
+	)
+	(wire
+		(pts
 			(xy 101.6 111.76) (xy 101.6 113.03)
 		)
 		(stroke
@@ -1528,6 +1538,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 90.17) (xy 111.76 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "725b3fcd-e72b-48e3-ba7d-1d968f504c69")
+	)
+	(wire
+		(pts
 			(xy 109.22 118.11) (xy 101.6 118.11)
 		)
 		(stroke
@@ -1558,16 +1578,6 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 90.17) (xy 115.824 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9aa66bd5-35de-4386-93bd-c13ff5c6fbff")
-	)
-	(wire
-		(pts
 			(xy 160.274 118.11) (xy 165.354 118.11)
 		)
 		(stroke
@@ -1578,6 +1588,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 93.98) (xy 111.76 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a49afe9a-0f04-4aba-a3ce-16182b7988b6")
+	)
+	(wire
+		(pts
 			(xy 159.004 120.65) (xy 165.354 120.65)
 		)
 		(stroke
@@ -1585,6 +1605,26 @@
 			(type default)
 		)
 		(uuid "b163569d-82e1-4175-a343-3c9d8387c229")
+	)
+	(wire
+		(pts
+			(xy 111.76 93.98) (xy 115.824 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3116f4e-032e-4680-a20d-80c695c59636")
+	)
+	(wire
+		(pts
+			(xy 111.76 90.17) (xy 115.824 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4fc4d8f-25e1-431c-a3df-998bd9ebf9bc")
 	)
 	(wire
 		(pts
@@ -1608,16 +1648,6 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 93.98) (xy 115.824 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cabdceac-35b5-44ce-9ee9-b6faa7e0340e")
-	)
-	(wire
-		(pts
 			(xy 184.658 100.33) (xy 195.834 100.33)
 		)
 		(stroke
@@ -1625,6 +1655,16 @@
 			(type default)
 		)
 		(uuid "e1bb714f-772b-4faa-abc5-48291509b31c")
+	)
+	(wire
+		(pts
+			(xy 105.41 93.98) (xy 107.95 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb6d62c9-fb44-4cbd-af1a-b297c6ead6ce")
 	)
 	(wire
 		(pts
@@ -3206,7 +3246,7 @@
 			)
 			(uuid "6fce163d-6e5c-401c-b38c-652a6ef9a2cf")
 		)
-		(pin "RXD" output
+		(pin "RXD" input
 			(at 115.824 93.98 180)
 			(effects
 				(font
@@ -3215,7 +3255,7 @@
 				)
 				(justify left)
 			)
-			(uuid "bdde2681-bcd5-4907-b2bb-9ae66d5a1770")
+			(uuid "3df3845d-fc6c-47e0-ad06-e35d40e023d2")
 		)
 		(instances
 			(project "DongleALIVEv2.0"
@@ -3400,7 +3440,7 @@
 			)
 			(uuid "7f802c6d-8e2c-46b1-987c-bf083e87f8d8")
 		)
-		(pin "TXD" input
+		(pin "TXD" output
 			(at 105.41 90.17 0)
 			(effects
 				(font
@@ -3409,7 +3449,7 @@
 				)
 				(justify right)
 			)
-			(uuid "621ae66c-81fb-4a67-ac2c-89514b7cd390")
+			(uuid "7de91c48-d01a-44f9-ad7f-06a07c80b14c")
 		)
 		(instances
 			(project "DongleALIVEv2.0"

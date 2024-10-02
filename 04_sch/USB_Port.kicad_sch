@@ -3048,7 +3048,7 @@
 		)
 	)
 	(hierarchical_label "TXD"
-		(shape input)
+		(shape output)
 		(at 181.61 66.04 0)
 		(fields_autoplaced yes)
 		(effects
