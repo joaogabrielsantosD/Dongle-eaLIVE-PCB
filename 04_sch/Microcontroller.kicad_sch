@@ -2475,28 +2475,6 @@
 		)
 		(uuid "60657cd1-6dd9-4ffb-b8ba-ac0824912cf8")
 	)
-	(label "ESP_RXD"
-		(at 171.45 87.63 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.5 0.5)
-			)
-			(justify left bottom)
-		)
-		(uuid "784c640a-5b73-41b0-88e8-463aa2263839")
-	)
-	(label "ESP_TXD"
-		(at 171.45 82.55 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.5 0.5)
-			)
-			(justify left bottom)
-		)
-		(uuid "f02384aa-6883-4b73-a259-ee730e755081")
-	)
 	(label "RXD0"
 		(at 156.21 87.63 0)
 		(fields_autoplaced yes)
