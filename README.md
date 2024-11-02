@@ -5,4 +5,7 @@ Dongle-eaLIVE has been created using KiCad and all the design files can be found
 
 | PCB Front           |  PCB Back |
 | :-------------------------: | :-------------------------: |
-| ![Dongle-ealive front](01_Specs/03_3Dmodel/DongleALIVEv2.0_Front_view.pdf)  | ![Dongle-eavlive back](01_Specs/03_3Dmodel/DongleALIVEv2.0_Back_view.pdf) |
+| ![Dongle-ealive front](01_Specs/04_v2/DongleALIVEv2.0_Front_view.png)  | ![Dongle-eavlive back](01_Specs/04_v2/DongleALIVEv2.0_Back_view.png) |
+
+### Dimensions
+![Dongle-ealive dimensions](01_Specs/04_v2/Dimensions.png)
